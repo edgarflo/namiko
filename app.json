@@ -1,0 +1,13 @@
+{
+  "name": "namiko",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
